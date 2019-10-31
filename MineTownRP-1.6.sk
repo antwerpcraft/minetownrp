@@ -1,0 +1,210 @@
+on rightclick on sign: 
+    line 2 of event-block is "wastebasket":
+        open the player's inventory for the player
+        clear the player's inventory
+on rightclick on sign:
+	line 2 of event-block is "Telenet":
+		broadcast "player is using Telenet as provider now."
+on rightclick on sign:
+	line 2 of event-block is "Proximus":
+		broadcast "player is using Proximus as provider now."
+on rightclick on sign:
+	line 2 of event-block is "Belgacom":
+		broadcast "player is using Belgacom as provider now."
+on rightclick on sign:
+	line 2 of event-block is "Orange":
+		broadcast "player is using Orange as provider now."
+on rightclick on sign:
+	line 2 of event-block is "police":
+		broadcast "The job of player is police now."
+on rightclick on sign:
+	line 2 of event-block is "criminal":
+		broadcast "The job of player is criminal now."
+on rightclick on sign:
+	line 2 of event-block is "CEOMC":
+		broadcast "The job of player is CEO of the MacDonald's now."
+on rightclick on sign:
+	line 2 of event-block is "CEOBK":
+		broadcast "The job of player is CEO of Burger King now."
+on rightclick on sign:
+	line 2 of event-block is "CEOQ":
+		broadcast "The job of player is CEO of Quick now."
+on rightclick on sign:
+	line 2 of event-block is "EMC":
+		broadcast "The job of player is employee of the MacDonald's now."
+on rightclick on sign:
+	line 2 of event-block is "EBK":
+		broadcast "The job of player is employee of Burger King now."
+on rightclick on sign:
+	line 2 of event-block is "EQ":
+		broadcast "The job of player is employee of Quick now."
+on rightclick on sign:
+	line 2 of event-block is "doctor":
+		broadcast "The job of player is doctor now."
+on rightclick on sign:
+	line 2 of event-block is "pharmacist":
+		broadcast "The job of player is pharmacist now."
+on rightclick on sign:
+	line 2 of event-block is "nurse":
+		broadcast "The job of player is nurse now."
+on rightclick on sign:
+	line 2 of event-block is "Auror":
+		broadcast "The job of player is Auror now."
+on rightclick on sign:
+	line 2 of event-block is "Healer":
+		broadcast "The job of player is Healer now."
+on rightclick on sign:
+	line 2 of event-block is "ministermagic":
+		broadcast "The job of player is Minister of Magic now."
+on rightclick on sign:
+	line 2 of event-block is "Astronomy":
+		broadcast "The job of player is Teacher Astronomy now."
+on rightclick on sign:
+	line 2 of event-block is "Potions":
+		broadcast "The job of player is Teacher Potions now."
+on rightclick on sign:
+	line 2 of event-block is "Charms":
+		broadcast "The job of player is Teacher Charms now."
+on rightclick on sign:
+	line 2 of event-block is "CoMC":
+		broadcast "The job of player is Teacher Care of Magical Creatures now."
+on rightclick on sign:
+	line 2 of event-block is "Divination":
+		broadcast "The job of player is Teacher Divination now."
+on rightclick on sign:
+	line 2 of event-block is "Herbology":
+		broadcast "The job of player is Teacher Herbology now."
+on rightclick on sign:
+	line 2 of event-block is "DADA":
+		broadcast "The job of player is Teacher Defence Against the Dark Arts now."
+on rightclick on sign:
+	line 2 of event-block is "HM":
+		broadcast "The job of player is Teacher History of Magic now."
+on rightclick on sign:
+	line 2 of event-block is "MuSt":
+		broadcast "The job of player is Teacher Muggle Studies now."
+on rightclick on sign:
+	line 2 of event-block is "Arithmancy":
+		broadcast "The job of player is Teacher Arithmancy now."
+on rightclick on sign:
+	line 2 of event-block is "Runes":
+		broadcast "The job of player is Teacher Study of Ancient Runes now."
+on rightclick on sign:
+	line 2 of event-block is "Transfiguration":
+		broadcast "The job of player is Teacher Transfiguration now."
+on rightclick on sign:
+	line 2 of event-block is "Flying":
+		broadcast "The job of player is Teacher Flying Lessons now."
+on rightclick on sign:
+	line 2 of event-block is "Head":
+		broadcast "The job of player is Headmaster of Hogwarts now."
+on rightclick on sign:
+	line 2 of event-block is "Alchemics":
+		broadcast "The job of player is Teacher Alchemics now."
+on rightclick on sign:
+	line 2 of event-block is "Magizoologist":
+		broadcast "The job of player is Magizoologist now."
+on rightclick on sign:
+	line 2 of event-block is "Deatheater":
+		broadcast "The job of player is Deatheater now."
+on rightclick on sign:
+	line 2 of event-block is "Darklead":
+		broadcast "The job of player is Dark Leader now."
+on rightclick on sign:
+	line 2 of event-block is "Slytherin":
+		broadcast "The house of player is Slytherin now."
+on rightclick on sign:
+	line 2 of event-block is "Gryffindor":
+		broadcast "The house of player is Gryffindor now."
+on rightclick on sign:
+	line 2 of event-block is "Ravenclaw":
+		broadcast "The house of player is Ravenclaw now."
+on rightclick on sign:
+	line 2 of event-block is "Hufflepuf":
+		broadcast "The house of player is Hufflepuf now."
+on rightclick on sign:
+	line 2 of event-block is "judge":
+		broadcast "The job of player is judge now."
+on rightclick on sign:
+	line 2 of event-block is "lawyer":
+		broadcast "The job of player is lawyer now."
+on rightclick on sign:
+	line 2 of event-block is "minister":
+		broadcast "The job of player is minister now."
+on rightclick on sign:
+	line 2 of event-block is "king":
+		broadcast "The job of player is king now."
+on rightclick on sign:
+	line 2 of event-block is "president":
+		broadcast "The job of player is president now."
+on rightclick on sign:
+	line 2 of event-block is "chancellor":
+		broadcast "The job of player is chancellor now."
+on rightclick on sign:
+	line 2 of event-block is "emperor":
+		broadcast "The job of player is emperor now."
+on rightclick on sign:
+	line 2 of event-block is "dictator":
+		broadcast "The job of player is dictator now."
+on rightclick on sign:
+	line 2 of event-block is "governor":
+		broadcast "The job of player is governor now.
+on rightclick on sign:
+	line 2 of event-block is "mayor":
+		broadcast "The job of player is mayor now."
+on rightclick on sign:
+	line 2 of event-block is "Hogwarts":
+		broadcast "player goes to Hogwarts School of Witchcraft and Wizardry now."
+on rightclick on sign:
+	line 2 of event-block is "Beauxbatons":
+		broadcast "player goes to Beauxbatons Academy of Magic now."
+on rightclick on sign:
+	line 2 of event-block is "Durmstrang":
+		broadcast "player goes to Durmstrang now."
+on rightclick on sign:
+	line 2 of event-block is "Ilvermorny":
+		broadcast "player goes to Ilvermorny now."
+on rightclick on sign:
+	line 2 of event-block is "Koldovstoretz":
+		broadcast "player goes to Koldovstoretz now."
+on rightclick on sign:
+	line 2 of event-block is "Mahoutoukoro":
+		broadcast "player goes to Mahoutoukoro now."
+on rightclick on sign:
+	line 2 of event-block is "Uagadou":
+		broadcast "player goes to Uagadou now."
+on rightclick on sign:
+	line 2 of event-block is "Castelobruxo":
+		broadcast "player goes to Castelobruxo now."
+command /jobs:
+    permission: jobs.list
+    description: See what jobs there are.
+    trigger:
+        send "The jobs you can do are: criminal, police, CEO, employee, nurse, doctor, pharmacist, magical teacher, Minister of Magic, Minister, King, judge, head of a place, Deatheater, Dark Leader, Healer, Auror, Magizoologist."
+command /houses:
+    permission: houses.list
+    description: See what houses there are.
+    trigger:
+		send "The houses you can be in are: Slytherin, Gryffindor, Hufflepuf, Ravenclaw."
+command /providers:
+    permission: providers.list
+    description: See what providers there are.
+    trigger:
+		send "The providers there are: Telenet, Belgacom, Orange, Proximus."
+command /magicalschools:
+    permission: magicalschools.list
+    description: See which magical schools there are.
+    trigger:
+        send "The magical schools there are: Hogwarts, Ilvermorny, Mahoutoukoro, Durmstrang, Beauxbatons, Koldovstoretz, Castelobruxo, Uagadou"
+on rightclick on sign:
+	line 2 of event-block is "farmer":
+		broadcast "The job of player is farmer now."	
+on rightclick on sign:
+	line 2 of event-block is "miner":
+		broadcast "The job of player is miner now."
+on rightclick on sign:
+	line 2 of event-block is "woodcutter":
+		broadcast "The job of player is woodcutter now."
+on rightclick on sign:
+	line 2 of event-block is "fisher":
+		broadcast "The job of player is fisher now."
